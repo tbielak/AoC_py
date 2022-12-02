@@ -4,7 +4,7 @@
 
 ## Features
 - Advent of Code 2015-2021 solutions in Python
-- ready to run from Microsoft Visual Studio Community 2022 (after installing *colorama* module)
+- ready to run from Microsoft Visual Studio Community 2022 (after installing [colorama](https://pypi.org/project/colorama/) module)
 
 
 ## Solutions matrix
