@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2015", "2015\2015.pyproj", "{A4328777-1314-40D1-9190-82C4975D535F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2016", "2016\2016.pyproj", "{6DBA2076-D957-42CD-B306-4712953B3601}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2017", "2017\2017.pyproj", "{50E80B09-D99E-4A8C-B4DE-0153635843F2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2018", "2018\2018.pyproj", "{EEBC1076-8675-42D4-83C2-99DAAF316DFE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2019", "2019\2019.pyproj", "{6B17B38D-36FC-4260-9256-7A510DF0D47D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2020", "2020\2020.pyproj", "{48B1BBD9-4942-4972-BBAB-F64E071F7EB7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2021", "2021\2021.pyproj", "{4D1F76A1-B687-4B91-88B4-2844E2C03F48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15E29974-33BA-453A-A0B0-C2EC52CA6E53}"
+	ProjectSection(SolutionItems) = preProject
+		AoC.py = AoC.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4328777-1314-40D1-9190-82C4975D535F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4328777-1314-40D1-9190-82C4975D535F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBA2076-D957-42CD-B306-4712953B3601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBA2076-D957-42CD-B306-4712953B3601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E80B09-D99E-4A8C-B4DE-0153635843F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E80B09-D99E-4A8C-B4DE-0153635843F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBC1076-8675-42D4-83C2-99DAAF316DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBC1076-8675-42D4-83C2-99DAAF316DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B17B38D-36FC-4260-9256-7A510DF0D47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B17B38D-36FC-4260-9256-7A510DF0D47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B1BBD9-4942-4972-BBAB-F64E071F7EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B1BBD9-4942-4972-BBAB-F64E071F7EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1F76A1-B687-4B91-88B4-2844E2C03F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1F76A1-B687-4B91-88B4-2844E2C03F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FC993F-595E-4D49-8707-93B2A53DB820}
+	EndGlobalSection
+EndGlobal
