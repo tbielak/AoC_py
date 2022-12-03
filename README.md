@@ -31,4 +31,8 @@ Repository contains the following directories:
 
 ## Other programming languages
 
-Python isn't your favorite programming language? See some Advent of Code puzzle solutions in [C#](https://github.com/tbielak/AoC_cs) and much more in [C++](https://github.com/tbielak/AoC_cpp)!
+Python isn't your favorite programming language? See some Advent of Code puzzle solutions in [C#](https://github.com/tbielak/AoC_cs), [JavaScript](https://github.com/tbielak/AoC_js) and much more in [C++](https://github.com/tbielak/AoC_cpp)!
+
+Why Python?
+
+As of December 2022, when I write this paragraph, Python is the most popular programming language in the world, according to many lists available on the Internet, e.g. [here](https://pypl.github.io/PYPL.html). And I have not written a single line of code in Python up to mid-November 2022! Time to change that :)
