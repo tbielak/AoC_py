@@ -14,15 +14,9 @@ class Main(AoC.Solution):
         )
 
     def part_two(self, input):
-        sum = 0
-        i = 0
-        while i < len(input):
-            contents = {}
-            for j in range(3):
-                for c in input[i]:
-                    contents[c] = contents.get(c, 0) | (1 << j)
-                i = i + 1
-            for c, v in contents.items():
-                if v == 7:
-                    sum += Main.priority(c)
-        return sum
+        return sum(
+            Main.priority(
+                next(iter(set(r[0]).intersection(set(r[1])).intersection(set(r[2]))))
+            )
+            for r in [input[i : i + 3] for i in range(0, len(input), 3)]
+        )
